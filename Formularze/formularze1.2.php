@@ -20,8 +20,6 @@
           }
           echo"Dane przed poprawą: ilosc znakow: $ilosc, Imie: $name, kraj: $country<br>";
 
-
-
           $poprawne = ucfirst(strtolower(substr(trim($name),0, 10)));
           $ilosc = strlen($name);
 
@@ -35,19 +33,10 @@ echo<<<END
         <tr>
         <td>kraj</td>  <td>$country</td>
         </tr>
-
-
       </table>
-
-
-
-
-
-
 END;
 
       }
-
   }
 
  ?>
