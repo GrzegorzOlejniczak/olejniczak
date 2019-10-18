@@ -29,17 +29,12 @@
 echo<<<END
       <h1>PODSUMOWANIE</h1>
       <table border="1" cellpading="10" cellspacing="0">
-      <tr>
-        <td>Imie</td>  <td>$name</td>
-      </td>
-      <tr>
-      <td>kraj</td>  <td>$country</td>
-    
-
-      </td>
-
-
-
+        <tr>
+          <td>Imie</td>  <td>$name</td>
+        </tr>
+        <tr>
+        <td>kraj</td>  <td>$country</td>
+        </tr>
 
 
       </table>
