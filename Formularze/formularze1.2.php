@@ -21,7 +21,7 @@
           echo"Dane przed poprawą: ilosc znakow: $ilosc, Imie: $name, kraj: $country<br>";
 
           $poprawne = ucfirst(strtolower(substr(trim($name),0, 10)));
-          $ilosc = strlen($name);
+          $ilosc = strlen($poprawne);
 
           echo"dane po poprawie: $ilosc, imie $poprawne, kraj: $country";
 echo<<<END
