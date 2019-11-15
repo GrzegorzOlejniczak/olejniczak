@@ -1,0 +1,52 @@
+body{
+  background-color: #eeeeee;
+}
+#container{
+  width:1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#topblock{
+  height: 59px;
+  background-color: black;
+  border-radius: 13px;
+  border: 2px solid red;
+}
+.blooook{
+  float:left;
+  width: 174px;
+  height: 36px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  border-right: 2px dotted white;
+}
+
+.blooook:hover{
+background-color: yellow;
+border-radius: 13px;
+}
+#main{
+  height: 1000px;
+  margin-top: 10px;
+  background-color: #666666;
+  border-radius: 13px;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+#footer{
+  margin-top: 10px;
+  width: 1000px;
+  height: 60px;
+  background-color: #666666;
+  border-radius: 13px;
+  text-align: center;
+  font-size: 30px;
+
+}
+a{
+  text-decoration: none;
+  color: red;
+}
