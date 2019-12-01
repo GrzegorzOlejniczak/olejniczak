@@ -36,7 +36,7 @@
             echo "||<br>";
 
 
-//magiczny dywan here na suki
+//magiczny dywan
           for ($i=1; $i < $choinka ; $i++) {
             if($i%2==0){
               for ($a=1; $a < $choinka; $a++) {
