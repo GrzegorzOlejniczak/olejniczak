@@ -1,0 +1,18 @@
+napisz w pliku person.php klasę person ze składowymi imie nazwisko data urodzenia i miejscowosc
+Utworz metody pozwalajace na przypisanie skladowych
+utwor metode pozwalajaca przypisac wszystkim sladowym
+
+
+Napisz metodę wyswietlająca wszystkie właściwości z klasy
+Person w formacie:
+
+Imię i nazwisko:.. ..
+Data urodzenia: .. ...
+Miejscowość: ... ....
+
+##########################################   Konstruktor   ####################################################################
+Utworz klase o nazwie Zwierze w pliku Animal.php
+ W klasie dodaj konstruktor ktory przypisze wartosc poczatkowa do ilosci nóg(4)
+ w konstruktorze nalezy przypisac jeszcze (wpisuje uzytkownik podczas tworzenia obiektu);
+ gatunek, karaj pochodzenia, waga, wzrost
+ utwórz dwa obiekty i przypisz im wartości początkowe i wyświetl za pomocą metody getAll
